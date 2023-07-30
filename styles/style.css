@@ -49,3 +49,1012 @@
     background: rgba(11, 2, 35, 0.10);
     padding: 7px 15px;
 }
+
+
+.first-section {
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    /* background: #FFF; */
+    /* background: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%); */
+}
+
+.first-left {
+    width: 45%;
+    height: 100%;
+    margin: 50px 0px 20px 150px;
+
+}
+
+.icons-box p {
+    margin-bottom: 5px;
+}
+
+.first-banner-text {
+    color: #F948B2;
+    font-size: 40px;
+    margin-top: 5px;
+}
+
+.double-btn-box {
+    margin-top: 20px;
+}
+
+
+.double-btn-left {
+    color: #FFF;
+    padding: 10PX 20px;
+    border: none;
+    border-radius: 48px;
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+}
+
+.double-btn-left a {
+    text-decoration: none;
+}
+
+.double-btn-right {
+    color: #FFF;
+    padding: 10PX 20px;
+    border: none;
+    border-radius: 48px;
+    background: #4EC5F7;
+    /* margin-top: 10px; */
+}
+
+.double-btn-right a {
+    text-decoration: none;
+}
+
+.first-right {
+    width: 45%;
+    height: 100%;
+    margin: auto;
+}
+
+.first-right img {
+    width: 350px;
+    margin: auto;
+}
+
+
+/* --------------------------------------------------
+ second section styles starting from here
+ --------------------------------------------------- */
+
+.second-section {
+    width: 100%;
+    height: 450px;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.group-img-description {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.group-img-left {
+    width: 40%;
+    margin: auto;
+}
+
+.group-pic {
+    /* width: 550px; */
+    width: 90%;
+    margin: auto;
+}
+
+
+.group-description {
+    width: 40%;
+    /* height: 300px; */
+    margin: auto;
+    /* margin-right: 0%; */
+    /* display: block; */
+    /* justify-content: end; */
+    /* background-color: rebeccapurple */
+
+}
+
+.group-description-heading {
+    width: 80%;
+    display: flex;
+    justify-content: end;
+    font-size: 40px;
+
+}
+
+.group-description-text {
+    width: 60%;
+    display: flex;
+    justify-content: end;
+    color: #534C64;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+.box-btn {
+    width: 80%;
+    /* background-color: #F948B2; */
+    display: flex;
+    justify-content: right;
+}
+
+.btn-more {
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 48px;
+    padding: 7px 10px;
+    color: #FFF;
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+}
+.btn-more a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* third section styles starting from here */
+
+.third-section {
+    width: 90%;
+    background-color: #FFF;
+    margin: auto;
+
+}
+
+.heading-para {
+    width: 50%;
+    margin: auto;
+}
+
+.video-haeding,
+.video-para {
+    display: flex;
+    justify-content: center;
+}
+
+
+.thumbnil {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.video-pic {
+    width: 20%;
+    margin: auto;
+}
+
+.third-single-img {
+    margin-top: 30px;
+}
+.third-single-img img:hover{
+border: 1px solid red;
+border-radius: 30px;
+}
+.video-pic img,
+p {
+    width: 100%;
+    margin: auto;
+}
+
+.play-on-web {
+    position: relative;
+    top: 140px;
+    left: 100px;
+    align-items: start;
+    text-decoration: none;
+    color: rgb(231, 29, 79);
+    border: 2px sollid rebeccapurple;
+    border: #FFF;
+
+}
+
+
+
+.join-pic-description {
+    width: 100%;
+    display: flex;
+    /* height: 550px; */
+    /* background-color: #f54873; */
+
+}
+
+.join-heading-p {
+    width: 45%;
+    /* background-color: #f54873; */
+    margin: auto;
+}
+
+.offer-heading {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: right;
+}
+
+.offer-description {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: right;
+}
+
+.join-img {
+    width: 45%;
+    margin: auto;
+}
+
+.first-img {
+    width: 400px;
+    margin-top: 100px;
+
+}
+
+.top-img {
+    width: 200px;
+    position: relative;
+    /* left: 100px; */
+    right: 100px;
+    bottom: 150px;
+}
+
+
+
+.second-join-img {
+    width: 100%;
+
+}
+
+.img-heading-box {
+    width: 90%;
+    margin: 50px auto;
+    /* background-color: purple; */
+    display: flex;
+}
+
+.box-img {
+    width: 50%;
+    display: flex;
+    margin: auto;
+}
+
+.box-img-first {
+    width: 450px;
+}
+
+.box-img-second {
+    width: 200px;
+    position: relative;
+    /* bottom: 0; */
+    top: 250px;
+    right: 150px;
+}
+
+.box-description {
+    width: 40%;
+    margin: auto;
+}
+
+.box-description-heading {
+    width: 50%;
+    margin: auto;
+}
+
+.gradient-play-games {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+
+}
+
+/* --------------------------------------
+-fifth section styles started from here
+----------------------------------------- */
+.fifth-section {
+    width: 100%;
+    /* background-color: #f0239bf3; */
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+    margin-top: 100px;
+}
+
+.carier-box {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    /* background-color: #f0239bf3; */
+
+}
+
+.carier-description {
+    width: 50%;
+    /* background-color: #f54873; */
+}
+
+.carier-heading {
+    display: flex;
+    justify-content: start;
+    color: #FFF;
+    font-size: 40px;
+    margin: 90px 0px 20px 90px;
+}
+
+.carier-text {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.carier-img {
+    width: 50%;
+    margin: auto;
+}
+
+.baby-img {
+    /* width: 450px; */
+    width: 100%;
+    margin: auto;
+}
+
+.location-inst {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.location-description-first {
+    /* color: white; */
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.location-description-second {
+    text-align: end;
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.btn-position {
+    margin-left: 90px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    color: #f54873;
+    font-weight: 600;
+    margin-top: 20px;
+
+
+    font-family: Work Sans;
+    /* font-size: 20px; */
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+
+}
+
+
+/* ------------------------------------------------------
+ section sixth started from here 
+ -------------------------------------------------------*/
+.sixth-section {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+}
+
+.gaming-links {
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-items: center;
+    margin: auto;
+}
+
+.for-bordering {
+    border: 1px red solid;
+    border-radius: 48px;
+
+}
+
+.img-link-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 150px; */
+    margin: auto;
+}
+.img-link-heading:hover{
+    border: 1px red solid;
+    border-radius: 48px;
+    color: #F948B2;
+}
+
+.img-link-heading img {
+    width: 40px;
+}
+
+.gaming-links-second {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: auto;
+    width: 70%;
+    /* background-color: #f54873; */
+}
+
+
+
+
+/* -------------------------------------------
+footer section started from here 
+ ---------------------------------------------*/
+.section-footer {
+    width: 100%;
+    background-color: #0B0223;
+    margin: auto;
+}
+
+.first-footer {
+    width: 90%;
+    margin: auto;
+}
+
+.footer-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-logo gamer-img {
+    width: 10px;
+}
+
+.footer-logo h1 {
+    color: #FFF;
+}
+
+.second-footer {
+    width: 90%;
+    margin: auto;
+
+}
+
+.second-footer-list {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.second-footer-list li {
+    list-style: none;
+    margin: auto 20px;
+
+}
+
+.second-footer-list li a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.social-media-icon {
+    width: 90%;
+    margin: 30px auto;
+    /* margin-top: 20px; */
+    /* background-color: #f54873; */
+}
+
+.social-media-icon-list {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+.social-media-icon-list li {
+    list-style: none;
+    margin: 0px 20px;
+    color: wheat;
+}
+
+.social-media-icon-list li a {
+    color: #FFF;
+}
+
+.social-media-condition-list {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.social-media-condition-list ul {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.social-media-condition-list ul li {
+    list-style: none;
+    margin: 0px 10px;
+}
+
+.social-media-condition-list ul li a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.year-text {
+    width: 100%;
+}
+
+.year-text ul li {
+    list-style: none;
+}
+
+.year-text {
+    display: flex;
+    justify-content: center;
+}
+
+.year-text ul li a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+
+
+
+/* --------------------------------------------------
+-----------------------------------------------------
+Responsive design starting from there
+-----------------------------------------------------
+-----------------------------------------------------*/
+
+@media screen and (max-width: 576px) {
+    .header{
+        display: block;
+        justify-content: center;
+        margin: auto;
+    }
+    .nav{
+        width: 50%;
+        margin: auto;
+    }
+    .contact-first .contact-list{
+        width: 50%;
+        display: block;
+        margin: 5px auto;
+    }
+    .first-section{
+        width: 90%;
+        height: 100%;
+        margin: 5px auto;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row-reverse;
+        
+    }
+    .first-left{
+        width: 90%;
+        display: block;
+        justify-content: center;
+        margin: auto;
+        /* background-color: #8758F1; */
+    }
+    .first-right{
+        width: 90%;
+        display: block;
+        justify-content: center;
+        margin: 15px auto;
+        /* background-color: #8758F1; */
+    }
+    .first-right img{
+        width: 100%;
+        height: 300px;
+        margin: auto;
+        display: flex;
+        
+    }
+    /* second section responsive design started from here */
+    .second-section{
+        width: 100%;
+        height: 100vh;
+        margin-top: 100px;
+    }
+    .group-img-description{
+        width: 90%;
+        margin: auto;
+        /* display: block; */
+        display: grid;
+        /* flex-direction: row; */
+        flex-direction: column-reverse;
+        justify-content: center;
+        /* background-color: #8758F1; */
+    }
+    .group-img-left{
+        width: 100%;
+        /* background-color: #534C64; */
+        display: flex;
+        justify-content: center;
+    }
+    .group-img-left .group-pic{
+        width: 100%;
+    }
+    .group-description{
+        width: 100%;
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    .group-description-heading, .group-description-text{
+        width: 100%;
+        margin: auto;
+        display: flex;
+        justify-content: start;
+        text-align: justify;
+        
+    }
+    /* third section responsive design styles started for there */
+    .third-section{
+        width: 100%;
+        height: 100%;
+    }
+    .heading-para{
+        width: 100%;
+        height: auto;
+        margin: auto;
+    }
+    .video-haeding, .video-para{
+        width: 90%;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+    .thumbnil{
+        width: 90%;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .video-pic{
+        width: 100%;
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    .join-pic-description{
+        width: 90%;
+        margin: auto;
+        display: block;
+        
+    }
+    .join-heading-p{
+        width: 100%;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+
+    }
+    .offer-heading{
+        width: 90%;
+        margin: auto;
+    }
+    .join-img{
+        width: 90%;
+        margin: auto;
+        display: block;
+        justify-content: center;
+    }
+    .first-img{
+        width: 100%;
+        margin: 10px;
+    }
+    .top-img{
+        width: 100%;
+        position: inherit;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+   
+    /* ----------------------------------------------
+fifth section responsive design started from there    
+    -------------------------------------------------*/
+
+    .fifth-section{
+    width: 100%;
+    }
+    .carier-box{
+        width: 90%;
+        margin: auto;
+        display: grid;
+        flex-direction: column-reverse;
+    }
+    .carier-description{
+        width: 100%;
+        display: block;
+    }
+    .carier-heading{
+        width: 100%;
+        display: flex;
+        justify-content: start;
+        margin: auto;
+        
+    }
+    .carier-text{
+        width: 100%;
+    }
+    .location-inst{
+        width: 100%;
+    }
+    .location-description-first{
+        width: 50%;
+    }
+    .location-description-second{
+        width: 50%;
+    }
+    .btn-position{
+        width: 55%;
+        margin: auto;
+        border-radius: 48px;
+    }
+    .btn-position a{
+        text-decoration: none;
+        font-size: 10px;
+    }
+    .carier-img{
+        width: 100%;
+        margin: auto;
+    }
+    .baby-img{
+        width: 100%;
+        margin: auto;
+    }
+    .sixth-section{
+        width: 90%;
+        margin: auto;
+    }
+    .gaming-links{
+        width: 100%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .img-link-heading{
+        width: 100%;
+        height: auto;
+    }
+    .img-link-heading >h4{
+        font-size: 10px;
+    }
+    /* --------------------------------------------
+    footer responsive section started from there
+    ---------------------------------------------- */
+    .section-footer{
+        width: 90%;
+        margin: auto;
+    }
+    .first-footer{
+        width: 100%;
+        margin: auto;
+    }.second-footer{
+        width: 100%;
+        margin: auto;
+    }
+    .second-footer-list{
+        width: 85%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .second-footer-list li a{
+        font-size: 10px;
+    }
+    .social-media-icon{
+        width: 100%;
+    }
+    .social-media-icon-list{
+        width: 90%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .social-media-condition-list{
+        width: 90%;
+        margin: auto;
+    }
+    .social-media-condition-list ul{
+        width: 90%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .social-media-icon-list ul li a{
+        font-size: 7px;
+    }
+    .year-text{
+        width: 50%;
+        margin: auto;
+    }
+    .year-text ul li a{
+        width: 100%;
+        /* margin: auto; */
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+
+/* -----------------------------------------------------------
+--------------------------------------------------------------
+Responsive tablet view started from there
+--------------------------------------------------------------
+------------------------------------------------------------- */
+@media screen and (max-width: 1023px){
+    .header{
+        width: 90%;
+        margin: auto;
+    }
+    .first-section{
+        width: 100%;
+        margin: auto;
+    }
+    .first-left{
+        width: 100%;
+        margin: 5px;
+        display: block;
+        justify-content: center;
+    }
+    .first-left h2, .first-banner-text, .icons-box, .double-btn-box{
+        width: 80%;
+        /* margin: auto; */
+        margin-left: 20px;
+    }
+    .first-right{
+        width: 100%;
+        margin: 5px;
+    }
+
+    /* tablet second section started from there */
+    .second-section{
+        width: 100%;
+        height: 100%;
+        /* background-color: #0B0223; */
+    }
+    .group-img-description{
+        width: 95%;
+        margin: auto;
+        display: flex;
+    }.group-img-left{
+        width: 40%;
+        margin: auto;
+        background-color: #0B0223;
+    }
+    .group-description{
+        width: 55%;
+        
+    }
+    /* tablet third section started from there */
+    .third-section{
+        width: 100%;
+        height: 100%;
+    }
+    .thumbnil{
+        width: 90%;
+        height: 100%;
+        margin: auto;
+    }
+    .third-single-img img{
+        margin-top: 7px;
+    }
+    .join-pic-description{
+        width: 90%;
+        margin: auto;
+        display: block;
+    }
+    .join-heading-p{
+        width: 100%;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+
+    
+    .sixth-section{
+        width: 100%;
+    }
+    .gaming-links{
+        width: 100%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+
+    }
+
+}
