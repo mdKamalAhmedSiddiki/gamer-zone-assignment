@@ -1,0 +1,51 @@
+.header {
+    width: 100%;
+    /* background-color: whitesmoke; */
+    background-color: #FFF;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav img {
+    width: 50px;
+    height: 25px;
+}
+
+
+
+.logo-h {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.contact-list {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+
+}
+
+.contact-list li {
+    margin: 10px;
+    list-style: none;
+}
+
+.contact-list li a {
+    text-decoration: none;
+}
+
+.sv-g-two {
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    padding: 7px 15px;
+}
